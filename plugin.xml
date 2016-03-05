@@ -14,23 +14,20 @@
     <platform name="ios">
       <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
         <array>
-          <string>fb</string>
-          <string>twitter</string>
-          <string>gplus</string>
-          <string>pintrest</string>
-          <string>instagram</string>
-          <string>youtube</string>
-          <string>vnd.youtube</string>
-          <string>yelp</string>
-          <string>linkedin</string>
-          <string>tumblr</string>
-          <string>whatsapp</string>
-          <string>snapchat</string>
-          <string>comgooglemaps</string>
-          <string>amazon</string>
-          <string>skype</string>
-          <string>googledrive</string>
-          <string>itms-apps</string>
+          <string>fbapi</string>
+          <string>fbapi20130214</string>
+          <string>fbapi20130410</string>
+          <string>fbapi20130702</string>
+          <string>fbapi20131010</string>
+          <string>fbapi20131219</string>
+          <string>fbapi20140410</string>
+          <string>fbapi20140116</string>
+          <string>fbapi20150313</string>
+          <string>fbapi20150629</string>
+          <string>fbapi20160210</string>
+          <string>fbauth</string>
+          <string>fbauth2</string>
+          <string>fb-messenger-api20140430</string>
         </array>
       </config-file>
     </platform>
